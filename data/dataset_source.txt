@@ -1,1 +1,5 @@
+## Dataset
+The dataset used for this project is sourced from Kaggle:
+Retail Data Analytics Dataset  
+🔗 https://www.kaggle.com/datasets/manjeetsingh/retaildataset
 
