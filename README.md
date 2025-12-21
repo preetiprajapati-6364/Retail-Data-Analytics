@@ -17,6 +17,15 @@ store performance, and the impact of holidays on sales.
 - Holiday vs Non-Holiday sales comparison
 - KPI metrics using Power BI
 
+ ## Project Structure
+Each folder represents a different stage of the analytics workflow:
+
+- Excel: Data cleaning
+- SQL: Query-based analysis
+- Python: EDA and visualizations
+- Power BI: Final interactive dashboard
+- Presentation & Report: Business communication
+
 ## Outcome
 The project provides actionable insights to understand sales behavior and
 support data-driven business decisions.
