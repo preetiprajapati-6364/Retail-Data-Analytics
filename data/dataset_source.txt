@@ -1,5 +1,8 @@
-## Dataset
+## Dataset Name: Retail Data Analytics
+
 The dataset used for this project is sourced from Kaggle:
 Retail Data Analytics Dataset  
 🔗 https://www.kaggle.com/datasets/manjeetsingh/retaildataset
 
+Note:
+Raw CSV files are not uploaded to this repository due to size limitations.
